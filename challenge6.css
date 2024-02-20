@@ -32,3 +32,104 @@
    width: 25px; 
    margin: 0px 5px;
 }
+.text1{
+    display: flex;
+    font-size: 40px;
+    justify-content: center;
+    margin: 70px 0px 0px 0px;
+}
+b{
+    margin: 0px 7px 0px 7px;
+}
+.rev1{
+    width: 110px;
+    height: 40px;
+    margin: 0px 0px 0px 15px;
+}
+.smalltext{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    margin: 20px 0px 0px 0px;
+}
+.block{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    
+}
+.bluebutton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 215px;
+    height: 25px;
+    padding: 10px;
+    color: white;
+    background-color: rgb(43, 107, 150);
+    border-radius: 9px;
+}
+.gridf{
+    margin: 150px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows:1fr 1fr 1fr 1fr ;
+    gap: 20px;
+    /* display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 50px; */
+}
+.english{
+    height: 120px;
+    width: 260px;
+    background-color:rgb(248, 241, 241);
+    padding: 10px;
+    /* flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+    font-size: 20px; */
+}
+.headi{
+font-size: 20px;
+display: flex;
+justify-content: center;
+}
+.de{
+    display: flex;
+    justify-content: center;
+}
+.tb,.tg{
+    font-size: 15px;
+}
+.btn{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-evenly;
+    margin-top: 34px;
+    justify-content: space-evenly;
+}
+.grn{
+    display: flex;
+    height: 28px;
+    width: 120px;
+   
+    background-color: rgb(54, 161, 197);
+    color: white;
+    border-radius: 5px;
+}
+.tg{
+    margin: 6px;
+}
+.blue{
+    display: flex;
+    height: 28px;
+    width: 120px;
+   
+    background-color: rgb(82, 212, 82);
+    color: white;
+    border-radius: 5px;
+}
+.tb{
+    margin: 6px;
+}
+    
